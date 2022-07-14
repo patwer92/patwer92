@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Patrick!
-- 👀 I'm a front-end developer and designer based in Drøbak, Norway. 
+- 👀 I'm a front-end developer and UI designer based in Drøbak, Norway. 
 - 💻 I specialize in interface design for mobile and web based applications.
 - 🌱 I’m currently learning Next.js
